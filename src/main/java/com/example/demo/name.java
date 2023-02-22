@@ -8,7 +8,7 @@ import jakarta.servlet.http.HttpServletRequest;
 import jakarta.servlet.http.HttpSession;
 
 @Controller
-public class dharuni {
+public class name {
 	
 	@RequestMapping("/hello")
 	public String display(HttpServletRequest req)
